@@ -1,0 +1,15 @@
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\bin\Debug\net6.0\RAVolkov_test_work.exe
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\bin\Debug\net6.0\RAVolkov_test_work.deps.json
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\bin\Debug\net6.0\RAVolkov_test_work.runtimeconfig.json
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\bin\Debug\net6.0\RAVolkov_test_work.dll
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\bin\Debug\net6.0\RAVolkov_test_work.pdb
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\obj\Debug\net6.0\RAVolkov_test_work.csproj.AssemblyReference.cache
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\obj\Debug\net6.0\RAVolkov_test_work.GeneratedMSBuildEditorConfig.editorconfig
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\obj\Debug\net6.0\RAVolkov_test_work.AssemblyInfoInputs.cache
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\obj\Debug\net6.0\RAVolkov_test_work.AssemblyInfo.cs
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\obj\Debug\net6.0\RAVolkov_test_work.csproj.CoreCompileInputs.cache
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\obj\Debug\net6.0\RAVolkov_test_work.dll
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\obj\Debug\net6.0\refint\RAVolkov_test_work.dll
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\obj\Debug\net6.0\RAVolkov_test_work.pdb
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\obj\Debug\net6.0\RAVolkov_test_work.genruntimeconfig.cache
+W:\Common Things\education_C#\test_work_VolkoRA\RAVolkov_test_work\obj\Debug\net6.0\ref\RAVolkov_test_work.dll
